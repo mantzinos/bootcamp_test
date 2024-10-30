@@ -12,7 +12,7 @@ function displayItems(){ //new------------------------------------------
   checkUI();
 }
 
-
+// add a comment
 function onAddItemSubmit(e) {
   e.preventDefault();
 
