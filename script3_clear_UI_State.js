@@ -12,7 +12,7 @@ const itemFilter = document.getElementById('filter'); //new----------------
 function onAddItemSubmit(e) {
   e.preventDefault();
 
-  const newItem = itemInput.value;
+  const newItem = itemInput.value; //giouxoy
 
   // Validate Input
   if (newItem === '') {
