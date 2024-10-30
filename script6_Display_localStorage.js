@@ -12,6 +12,7 @@ function displayItems(){ //new------------------------------------------
   checkUI();
 }
 
+//SuperTeam
 
 function onAddItemSubmit(e) {
   e.preventDefault();
